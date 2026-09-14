@@ -11,7 +11,7 @@ function Header({ onMenuClick, onViewChange, currentView }) {
           </div>
           <div className="text-left">
             <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
-              QRGen Pro
+              QR GENERATOR
             </h1>
             <p className="text-[10px] uppercase tracking-widest text-gray-400 font-bold">Modern Generator</p>
           </div>

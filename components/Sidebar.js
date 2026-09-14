@@ -28,7 +28,7 @@ function Sidebar({ isOpen, onClose, onViewChange }) {
                 <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                   <div className="icon-qr-code text-white text-lg"></div>
                 </div>
-                <span className="font-bold text-lg">QRGen Pro</span>
+                <span className="font-bold text-lg">QR GENERATOR</span>
               </div>
               <button 
                 onClick={onClose}

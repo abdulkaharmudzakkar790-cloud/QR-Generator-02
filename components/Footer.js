@@ -9,7 +9,7 @@ function Footer() {
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <div className="icon-qr-code text-white text-lg"></div>
               </div>
-              <h2 className="text-xl font-bold">QRGen Pro</h2>
+              <h2 className="text-xl font-bold">QR GENERATOR</h2>
             </div>
             <p className="text-gray-500 text-sm max-w-xs leading-relaxed">
               Solusi modern untuk kebutuhan kode QR profesional. Dibuat dengan cinta untuk efisiensi digital Anda.
@@ -37,7 +37,7 @@ function Footer() {
 
         <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            © {currentYear} QRGen Pro. Hak Cipta Dilindungi.
+            © {currentYear} QR GENERATOR. Hak Cipta Dilindungi.
           </p>
           <p className="text-gray-400 text-sm">
             Created by Abdul Kahar Mudzakkar
