@@ -39,6 +39,9 @@ function Footer() {
           <p className="text-gray-400 text-sm">
             © {currentYear} QRGen Pro. Hak Cipta Dilindungi.
           </p>
+          <p className="text-gray-400 text-sm">
+            Created by Abdul Kahar Mudzakkar
+          </p>
           <div className="flex items-center gap-6">
             <a href="https://x.com/Trickle_HQ" target="_blank" className="text-gray-400 hover:text-blue-400 transition-colors">
               <div className="icon-twitter text-xl"></div>
